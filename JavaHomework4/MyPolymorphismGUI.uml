@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>MyPolymorphismGUI</OriginalElement>
+  <nodes>
+    <node x="256.0" y="116.5">MyPolymorphismGUI.MyRectangle</node>
+    <node x="393.0020661157025" y="128.0">MyPolymorphismGUI.MyCircle</node>
+    <node x="370.28333333333336" y="431.0">MyPolymorphismGUI.MyPolymorphismGUI</node>
+    <node x="303.6791666666667" y="0.0">MyPolymorphismGUI.MyGraphic</node>
+    <node x="760.0" y="116.5">MyPolymorphismGUI.MyLine</node>
+    <node x="0.0" y="105.0">MyPolymorphismGUI.DrawPanel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MyPolymorphismGUI.MyPolymorphismGUI" target="MyPolymorphismGUI.MyCircle">
+      <point x="49.125" y="-62.0" />
+      <point x="550.4083333333333" y="391.0" />
+      <point x="688.0" y="391.0" />
+      <point x="52.0" y="105.0" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyPolymorphismGUI" target="MyPolymorphismGUI.MyRectangle">
+      <point x="-16.375" y="-62.0" />
+      <point x="484.90833333333336" y="381.0" />
+      <point x="448.0" y="381.0" />
+      <point x="64.0" y="116.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyCircle" target="MyPolymorphismGUI.MyGraphic">
+      <point x="0.0" y="-105.0" />
+      <point x="636.0" y="85.0" />
+      <point x="419.87916666666666" y="85.0" />
+      <point x="33.19999999999999" y="27.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyLine" target="MyPolymorphismGUI.MyGraphic">
+      <point x="0.0" y="-116.5" />
+      <point x="870.5" y="75.0" />
+      <point x="453.07916666666665" y="75.0" />
+      <point x="66.39999999999998" y="27.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyPolymorphismGUI" target="MyPolymorphismGUI.MyLine">
+      <point x="81.875" y="-62.0" />
+      <point x="583.1583333333333" y="401.0" />
+      <point x="815.25" y="401.0" />
+      <point x="-55.25" y="116.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.DrawPanel" target="MyPolymorphismGUI.MyGraphic">
+      <point x="-59.0" y="-128.0" />
+      <point x="59.0" y="75.0" />
+      <point x="320.2791666666667" y="75.0" />
+      <point x="-66.39999999999998" y="27.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyRectangle" target="MyPolymorphismGUI.MyGraphic">
+      <point x="0.0" y="-116.5" />
+      <point x="384.0" y="85.0" />
+      <point x="386.6791666666667" y="85.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="MyPolymorphismGUI.MyPolymorphismGUI" target="MyPolymorphismGUI.DrawPanel">
+      <point x="-81.875" y="-62.0" />
+      <point x="419.40833333333336" y="401.0" />
+      <point x="177.0" y="401.0" />
+      <point x="59.0" y="128.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8417391304347827" x="490.5" y="277.5" />
+  <SelectedNodes>
+    <node>MyPolymorphismGUI.MyCircle</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
